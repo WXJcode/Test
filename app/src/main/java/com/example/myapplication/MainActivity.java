@@ -20,4 +20,7 @@ public class MainActivity extends AppCompatActivity {
     private void upload(){
         // 上传数据
     }
+    private void test(){
+
+    }
 }
