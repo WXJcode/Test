@@ -17,4 +17,7 @@ public class MainActivity extends AppCompatActivity {
     private void loaddata(){
         // 网络获取数据
     }
+    private void upload(){
+        // 上传数据
+    }
 }
